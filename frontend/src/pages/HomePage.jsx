@@ -109,6 +109,8 @@ const HomePage = () => {
                             <p className="mt-2 text-gray-600">
                                 Organizing large-scale tree planting events in urban and rural areas.
                             </p>
+                             src="./home4.png"
+                                 className="h-48 w-full object-cover rounded-lg mt-2" />
                             <button className="mt-4 text-green-500 font-medium hover:text-green-600">
                                 Learn More
                             </button>
@@ -124,7 +126,7 @@ const HomePage = () => {
                             </p>
                             <img
                                 src="./home3.png"
-                                className="rounded-lg mt-2 h-100" />
+                                 className="h-48 w-full object-cover rounded-lg mt-2" />
                             <button className="mt-4 text-green-500 font-medium hover:text-green-600">
                                 Learn More
                             </button>
@@ -139,7 +141,7 @@ const HomePage = () => {
 
                             <img
                                 src="./home2.png"
-                                className="rounded-lg mt-2 mb-2" />
+                                className="h-48 w-full object-cover rounded-lg mt-2" />
                             <button className="mt-4 text-green-500 font-medium hover:text-green-600">
                                 Learn More
                             </button>
@@ -153,7 +155,7 @@ const HomePage = () => {
                             </p>
                             <img
                                 src="./home1.png"
-                                className="rounded-lg mt-2" />
+                                 className="h-48 w-full object-cover rounded-lg mt-2" />
                             <button className="mt-4 text-green-500 font-medium hover:text-green-600">
                                 Learn More
                             </button>
