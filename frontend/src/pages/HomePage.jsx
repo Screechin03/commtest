@@ -109,7 +109,7 @@ const HomePage = () => {
                             <p className="mt-2 text-gray-600">
                                 Organizing large-scale tree planting events in urban and rural areas.
                             </p>
-                             src="./home4.png"
+                            <img src="./home4.png"
                                  className="h-48 w-full object-cover rounded-lg mt-2" />
                             <button className="mt-4 text-green-500 font-medium hover:text-green-600">
                                 Learn More
