@@ -1,4 +1,5 @@
-# commtest
+# Vanayana
+
 
 Vanayana is a community-driven tree-planting platform designed to encourage sustainable practices and environmental conservation. Built using modern web technologies like the MERN stack (MongoDB, Express, React, Node.js), Cloudinary, Leaflet, and Lucide React, the platform provides both users and administrators with comprehensive tools for managing tree-planting campaigns.
 
